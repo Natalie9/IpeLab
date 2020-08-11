@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.596a684a.chunk.css",
+    "main.js": "/static/js/main.efa929cd.chunk.js",
+    "main.js.map": "/static/js/main.efa929cd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bfca2edd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bfca2edd.js.map",
+    "static/js/2.37329a9d.chunk.js": "/static/js/2.37329a9d.chunk.js",
+    "static/js/2.37329a9d.chunk.js.map": "/static/js/2.37329a9d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.86e345eee6cde3e5be4d361281046d19.js": "/precache-manifest.86e345eee6cde3e5be4d361281046d19.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.596a684a.chunk.css.map": "/static/css/main.596a684a.chunk.css.map",
+    "static/js/2.37329a9d.chunk.js.LICENSE.txt": "/static/js/2.37329a9d.chunk.js.LICENSE.txt",
+    "static/media/Logo_IPElab.png": "/static/media/Logo_IPElab.710c395a.png",
+    "static/media/logo.png": "/static/media/logo.243fcdd6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfca2edd.js",
+    "static/js/2.37329a9d.chunk.js",
+    "static/css/main.596a684a.chunk.css",
+    "static/js/main.efa929cd.chunk.js"
+  ]
+}
