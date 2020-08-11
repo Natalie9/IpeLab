@@ -1,8 +1,8 @@
 .page-header {
   display: flex;
   flex-direction: column;
-  /* background-color: var(--color-primary-dark); */
-  background-color: red;
+  background-color: var(--color-primary-dark);
+  /* background-color: red; */
 }
 
 .page-header .top-bar-container {
